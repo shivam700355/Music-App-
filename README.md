@@ -35,9 +35,8 @@ npm run dev  # or expo start
 - **iOS Simulator (Mac only):** `npx expo run:ios`
 
 ## 📸 Screenshots
-![UI](screenshots/screenshot-1.jpg)
-![UI](screenshotsscreenshot-2.jpg)
-![UI](screenshots/screenshot-3.jpg)
-![UI](screenshotsscreenshot-4.jpg)
+![UI](screenshots/screenshot-1.jpg) ![UI](screenshots/screenshot-2.jpg) ![UI](screenshots/screenshot-3.jpg) ![UI](screenshots/screenshot-4.jpg)
+
+
 ## 🌟 Why Use This?
 This template saves development time and provides a beautiful foundation for building music-related apps with **React Native & Expo**.
