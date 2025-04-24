@@ -10,10 +10,6 @@ A **modern and responsive music player UI template** built with **Expo & Bolt**.
 - 🌙 **Dark & Light Mode** – Adaptive themes for better UX
 - ⚡ **Smooth Animations** – Enhances user interactions
 
-## 📦 Tech Stack
-- **Framework:** [Expo](https://expo.dev/) (Bolt Expo Starter)
-- **Navigation:** React Navigation & Expo Router
-- **UI Components:** React Native, Expo Linear Gradient, Expo Vector Icons
 
 ## 📂 Installation
 
@@ -39,14 +35,9 @@ npm run dev  # or expo start
 - **iOS Simulator (Mac only):** `npx expo run:ios`
 
 ## 📸 Screenshots
-![UI](screenshots/screenshots1.png)
-![UI](screenshots/screenshots2.png)
-
+![UI](screenshots/screenshot-1.jpg)
+![UI](screenshotsscreenshot-2.jpg)
+![UI](screenshots/screenshot-3.jpg)
+![UI](screenshotsscreenshot-4.jpg)
 ## 🌟 Why Use This?
 This template saves development time and provides a beautiful foundation for building music-related apps with **React Native & Expo**.
-
-## 📜 License
-This project is **open-source** under the [MIT License](LICENSE).
-
----
-🚀 **Start building your music app today!**
